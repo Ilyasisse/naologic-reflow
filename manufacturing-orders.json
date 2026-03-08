@@ -1,0 +1,104 @@
+{
+  "manufacturingOrders": [
+    {
+      "docId": "MO-001",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-001",
+        "itemId": "ITEM-001",
+        "quantity": 100,
+        "dueDate": "2026-03-10T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-002",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-002",
+        "itemId": "ITEM-002",
+        "quantity": 200,
+        "dueDate": "2026-03-11T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-003",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-003",
+        "itemId": "ITEM-003",
+        "quantity": 300,
+        "dueDate": "2026-03-12T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-004",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-004",
+        "itemId": "ITEM-004",
+        "quantity": 400,
+        "dueDate": "2026-03-13T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-005",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-005",
+        "itemId": "ITEM-005",
+        "quantity": 500,
+        "dueDate": "2026-03-14T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-006",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-006",
+        "itemId": "ITEM-006",
+        "quantity": 600,
+        "dueDate": "2026-03-15T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-007",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-007",
+        "itemId": "ITEM-007",
+        "quantity": 700,
+        "dueDate": "2026-03-16T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-008",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-008",
+        "itemId": "ITEM-008",
+        "quantity": 800,
+        "dueDate": "2026-03-17T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-009",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-009",
+        "itemId": "ITEM-009",
+        "quantity": 900,
+        "dueDate": "2026-03-18T17:00:00Z"
+      }
+    },
+    {
+      "docId": "MO-010",
+      "docType": "manufacturingOrder",
+      "data": {
+        "manufacturingOrderNumber": "MO-010",
+        "itemId": "ITEM-010",
+        "quantity": 1000,
+        "dueDate": "2026-03-19T17:00:00Z"
+      }
+    }
+  ]
+}
