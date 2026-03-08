@@ -1,4 +1,4 @@
-<img width="313" height="623" alt="image" src="https://github.com/user-attachments/assets/1f5e8612-1164-444a-a23f-83b823e75de5" />Production Schedule Reflow Engine
+Production Schedule Reflow Engine
 Overview
 
 This project implements a production scheduling reflow algorithm that recalculates work order schedules when disruptions occur. The system ensures the schedule remains valid while respecting constraints such as dependencies, work center availability, shift hours, and maintenance windows.
