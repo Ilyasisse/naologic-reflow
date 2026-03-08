@@ -15,31 +15,6 @@ Maintenance window handling – Work orders are moved if they conflict with main
 
 Change tracking – Records original and updated scheduling times along with reasons for changes.
 
-Project Structure:
-
-naologic-reflow
- ├─ src
- │   ├─ reflow
- │   │   ├─ basic-reflow.ts
- │   │   ├─ constraint-checker.ts
- │   │   ├─ dependency-graph.ts
- │   │   ├─ reflow.service.ts
- │   │   └─ types.ts
- │   │
- │   ├─ scenarios
- │   │   ├─ scenario-deps.ts
- │   │   └─ scenario1.delay-cascade.ts
- │   │
- │   └─ utils
- │       ├─ maintenance.ts
- │       ├─ shift-calculator.ts
- │       └─ index.ts
- │
- ├─ 5-WorkCenter.json
- ├─ 100-workorders.json
- ├─ manufacturing-orders.json
- ├─ index.ts
- ├─ package.json
 
  How It Works
 
