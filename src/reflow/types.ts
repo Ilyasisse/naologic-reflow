@@ -58,6 +58,7 @@ export interface WorkCenter {
 }
 
 
+export type WorkCenterDocument = WorkCenter;
 
 //Manufacturing Order
 export interface ManufacturingOrder{
